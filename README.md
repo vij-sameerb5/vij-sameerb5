@@ -1,5 +1,5 @@
 👋 Hi, I’m SHAIK SAMEER
-Currently Graduate Student in Computer Science at George Washington University(GWU)  
+Currently a Grad Student in Computer Science at George Washington University(GWU)  
 EX-Andriod Developer Intern @NSPIRA Management Services Ltd||
 Ex-Python Developer Intern @KENEXOFT Technologies Pvt Ltd.||
 Ex-Associate Developer Intern @Blueprism RPA(Robotic Process Automation).
