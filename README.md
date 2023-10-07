@@ -3,7 +3,6 @@ Currently a Grad Student in Computer Science at George Washington University(GWU
 EX-Andriod Developer Intern @NSPIRA Management Services Ltd||
 Ex-Python Developer Intern @KENEXOFT Technologies Pvt Ltd.||
 Ex-Associate Developer Intern @Blueprism RPA(Robotic Process Automation).
-A Final year Undergrad in computer science at VR Siddhartha Engineering College
 Love to think about new ideas and build them .It gives me immense pleasure to have my work used by many
 Always keen to improve my problem solving skills and like to spend my free time at competitive programming
 👀 I’m interested in Mobile App Development and cloud.
