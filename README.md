@@ -1,7 +1,7 @@
 👋 Hi, I’m SAMEER SHAIK 
 
 Currently Front End Developer Intern @GBCS Group - SkyIT Services && 
-Currently a Grad Student in Computer Science at George Washington University(GWU)  
+Currently a Grad Student in Computer Science at George Washington University(GWU) ||
 EX- ML Intern @MyEdMaster LTD , Sterling, VA ||
 EX-Andriod Developer Intern @NSPIRA Management Services Ltd||
 Ex-Python Developer Intern @KENEXOFT Technologies Pvt Ltd.||
