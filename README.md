@@ -12,4 +12,4 @@ Always keen to improve my problem solving skills and like to spend my free time 
 👀 I’m interested in Mobile App Development and cloud.
 🌱 I’m currently learning .Net and Azure
 💞️ I’m looking to collaborate on internships either full time or part time / either paid or unpaid just love to work.
-📫 contact me @vshaiksameer8921@gmail.com, @sameer.shaik@gwmail.gwu.edu
+📫 contact me @shaiksameer8921@gmail.com, @sameer.shaik@gwmail.gwu.edu
