@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sameer Shaik</h1>
-<h3 align="center">Grad Student @GWU||SDE||Python Develper||Web Developer</h3>
+<h3 align="center">Grad Student @GWU||SDE||Python Develper||Web Deve![Uploading Screenshot 2024-10-17 at 1.18.56 AM.png…]()
+loper</h3>
+<img width="1690" alt="Screenshot 2024-10-17 at 1 19 15 AM" src="https://github.com/user-attachments/assets/a5ad75ab-217a-4418-8349-48b203eff1f7">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vij-sameerb5&label=Profile%20views&color=0e75b6&style=flat" alt="vij-sameerb5" /> </p>
 
