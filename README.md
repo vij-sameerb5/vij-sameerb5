@@ -1,4 +1,4 @@
-<h1 align="center">Sameer Shaik</h1>
+<h1 align="center"> SAMEER SHAIK </h1>
 
 
 <img width="1690" alt="Screenshot 2024-10-17 at 1 19 15 AM" src="https://github.com/user-attachments/assets/a5ad75ab-217a-4418-8349-48b203eff1f7">
