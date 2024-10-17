@@ -2,7 +2,7 @@
 <h3 align="center">Grad Student @GWU || SDE || Python Developer || Web Developer</h3>
 
 <p align="center">
-   [https://sameer-shaik.com/](https://sameer-shaik.com/)
+   [https://sameer-shaik.com/]
 </p>
 
 
