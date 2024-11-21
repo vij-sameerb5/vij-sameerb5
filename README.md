@@ -48,6 +48,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vij-sameerb5&" alt="vij-sameerb5" /></p>
 
+[![Sameer's github activity graph](https://grag.onrender.com/graph?username=vij-sameerb5&bg_color=none&theme=react&area=true)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+
 
 
 
