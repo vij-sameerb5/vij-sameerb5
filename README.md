@@ -35,10 +35,12 @@
 - My portfolio - [https://sameer-shaik.com/]
 - Still in building new website [https://podclicks.tech/]
 - Renewing My internship website -[https://www.cyberneticglobal.com/]
--My Summer internship service page - [Services Page](https://skyit.services/services)
--Luna Website for fun - [https://sameerluna.netlify.app/]
--crosscheck-game for fun - [https://cross-check.co/]
--n2words for fun - [https://numbers2word.netlify.app/]
+- My Summer internship service page - [Services Page](https://skyit.services/services)
+- Luna Website for fun - [https://sameerluna.netlify.app/]
+- crosscheck-game for fun - [https://cross-check.co/]
+- n2words for fun - [https://numbers2word.netlify.app/]
+
+
 - ⚡ Fun fact **No God - Nietzsche**
 
 <h3 align="left">Connect with me:</h3>
