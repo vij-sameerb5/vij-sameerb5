@@ -34,7 +34,7 @@
 - most recent ones for georgehacks - [https://lighthearted-buttercream-7f2a98.netlify.app/](https://lighthearted-buttercream-7f2a98.netlify.app/)
 - My portfolio - [https://sameer-shaik.com/]
 - Still in building new website [https://podclicks.tech/]
-- Renewing My internship website -[https://www.cyberneticglobal.com/]
+- Renewing My internship's company website -[https://www.cyberneticglobal.com/]
 - My Summer internship service page - [Services Page](https://skyit.services/services)
 - Luna Website for fun - [https://sameerluna.netlify.app/]
 - crosscheck-game for fun - [https://cross-check.co/]
