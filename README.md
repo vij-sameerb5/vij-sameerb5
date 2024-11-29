@@ -8,8 +8,6 @@
    [https://sameer-shaik.com/]
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=vij-sameerb5&theme=onedark)](https://github.com/vij-sameerb5/github-profile-trophy)
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vij-sameerb5&label=Profile%20views&color=0e75b6&style=flat" alt="vij-sameerb5" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vij-sameerb5" alt="vij-sameerb5" /></a> </p>
@@ -32,7 +30,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mbsLaOa4DJFCNyJcFPrCWj0MkTJJ8eag/view?usp=sharing](https://drive.google.com/file/d/1mbsLaOa4DJFCNyJcFPrCWj0MkTJJ8eag/view?usp=sharing)
 
-- All the websites that I have done., Some are still in building process:
+- **All the websites that I have done., Some are still in building process:**
 - most recent ones for georgehacks still in building site - [https://lighthearted-buttercream-7f2a98.netlify.app/](https://lighthearted-buttercream-7f2a98.netlify.app/)
 - My portfolio - [https://sameer-shaik.com/]
 - Still in building new website [https://podclicks.tech/]
