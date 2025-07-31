@@ -33,9 +33,6 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1mbsLaOa4DJFCNyJcFPrCWj0MkTJJ8eag/view?usp=sharing](https://drive.google.com/file/d/1mbsLaOa4DJFCNyJcFPrCWj0MkTJJ8eag/view?usp=sharing)
 
 
-
-- ⚡ Fun fact **No God - Nietzsche**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/hwhyus_sam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hwhyus_sam" height="30" width="40" /></a>
