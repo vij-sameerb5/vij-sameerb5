@@ -33,7 +33,11 @@ from https://zepa.design/ </h3>
 <h3 align="center"> Professional Experience  </h3
 
 
-Working at Cybernetics Global , Washington DC
+### 1. Currently Working as Full Stack Developer at Cohortdata -> checkout cohortdata.com [built by me]  contact at my work at sameer@cohortdata.com
+
+
+### 2. Worked at Cybernetics Gloabal as the full-stack [Contract] - sameer@cyberneticgloabl.com - Washington DC USA
+
 
 <h3 align="center"> Featured Projects  </h3>
 
