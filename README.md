@@ -28,7 +28,7 @@ from https://zepa.design/ </h3>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vij-sameerb5&" alt="vij-sameerb5" /></p>
 
-
+[![An image of @vijsameerb5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vijsameerb5)](https://holopin.io/@vijsameerb5)
 
 <h3 align="center"> Professional Experience  </h3
 
