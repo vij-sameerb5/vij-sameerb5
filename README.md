@@ -19,6 +19,9 @@
 from https://zepa.design/ </h3>
 <img width="1770" height="802" alt="zzepa" src="https://github.com/user-attachments/assets/0f81f88b-4b30-4d7a-a916-c9dafd32f493" />
 
+
+[![An image of @vijsameerb5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vijsameerb5)](https://holopin.io/@vijsameerb5)
+
 ![GitHub Contribution Card](https://github-contribution-card.vercel.app/api?username=vij-sameerb5&theme=dark&order_by=stars&limit=20&custom_title=My+Contributions&hide_border=true&hide_contributor_rank=false&combine_all_yearly_contributions=true)
 
 
@@ -27,8 +30,6 @@ from https://zepa.design/ </h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vij-sameerb5&show_icons=true&locale=en" alt="vij-sameerb5" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vij-sameerb5&" alt="vij-sameerb5" /></p>
-
-[![An image of @vijsameerb5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vijsameerb5)](https://holopin.io/@vijsameerb5)
 
 <h3 align="center"> Professional Experience  </h3
 
