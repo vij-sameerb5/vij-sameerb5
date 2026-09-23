@@ -15,9 +15,15 @@
 [![Sameer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=vij-sameerb5&theme=dracula)](https://github.com/vij-sameerb5/github-readme-activity-graph)
 
 <p align="left"> <a href="https://twitter.com/hwhyus_sam" target="blank"><img src="https://img.shields.io/twitter/follow/hwhyus_sam?logo=twitter&style=for-the-badge" alt="whyus_sam" /></a> </p>
+
+<h3> JevX — find where Jev belongs in your codebase, and where it doesn’t.  checkout at https://jevx.live</h3>
+<img width="721" height="187" alt="Screenshot 2026-09-24 at 12 40 21 AM" src="https://github.com/user-attachments/assets/4fe0f729-a7d3-48dc-8ae3-1742f9d0aeb7" />
+
+
 <h3>My open source project zepa ui - check out the zepa components 
 from https://zepa.design/ </h3>
 <img width="1770" height="802" alt="zzepa" src="https://github.com/user-attachments/assets/0f81f88b-4b30-4d7a-a916-c9dafd32f493" />
+
 
 
 [![An image of @vijsameerb5's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vijsameerb5)](https://holopin.io/@vijsameerb5)
